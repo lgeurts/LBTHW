@@ -2,6 +2,10 @@
 
 # Learn Bash the Hard Way.
 
-A book written by ian Miell to help users get to a deeper understanding and proficiency in bash.
+First lesson to be learned:
+
+Being different is not a crime, and people who tell you it is are just jealous that you've picked up a skill they never in their wildest dreams could acquire. You can code. They cannot. That is pretty damn cool.
+
+Ian Miell & Zed A. Shaw
 
 <3
