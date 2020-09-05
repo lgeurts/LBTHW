@@ -2,8 +2,6 @@
 
 # Learn Bash the Hard Way.
 
-A book written to help bash users to get to a deeper understanding and proficiency in bash. It doesn’t aim to make you an expert immediately, but you will be more confident about using bash for more tasks than just one-off commands.
-
-Ian Miell
+A book written by ian Miell to help users get to a deeper understanding and proficiency in bash.
 
 <3
